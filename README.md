@@ -7,6 +7,7 @@
 ![LangChain](https://img.shields.io/badge/Framework-LangChain-green)
 ![Tavily](https://img.shields.io/badge/Tools-Tavily_Search-blue)
 ![LLM](https://img.shields.io/badge/AI-Llama3_%2F_Groq-orange)
+<img width="563" height="441" alt="image" src="https://github.com/user-attachments/assets/d54b74d0-50a1-4c00-ab40-4d1e8c32f621" />
 
 ## О проблеме 
 
